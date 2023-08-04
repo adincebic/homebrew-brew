@@ -1,8 +1,8 @@
 class Existentialannotator < Formula
   desc "A command line tool that scans Swift codebase and marks all existential types with `any`"
   homepage ""
-  url "https://github.com/adincebic/swift-existential-annotator/archive/1.1.0.zip"
-  sha256 "efa433e98d4821fa6bad5738cf11d47c9940a7c5df8607b1091886883986e135"
+  url "https://github.com/adincebic/swift-existential-annotator/archive/1.3.0.zip"
+  sha256 "09e01c98e035a66df313619f5e0b52995bbbd9a58c0fa2271ad38c60ac83c18e"
   license "MIT"
   
   def install
