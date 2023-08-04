@@ -15,7 +15,7 @@ class Existentialannotator < Formula
   end
   
   bottle do
-    root_url 'https://github.com/adincebic/swift-existential-annotator/releases/download/1.1.0'
+    root_url 'https://github.com/adincebic/swift-existential-annotator/releases/download/1.3.0'
     rebuild 3
     sha256 cellar: :any_skip_relocation, arm64_ventura: "1b85c3ec9c0bf5b16abeae8014d584e45e61153f6a0437aa284a8fe735eacf87"
   end
